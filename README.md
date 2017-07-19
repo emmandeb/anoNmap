@@ -33,3 +33,4 @@ After entering the target, you will need to enter your facebook cooke and after 
 Open your browser and navigate to <b>developers tools-->Network</b>. It is a feature that comes preinsalled in most of the modern browsers. In Firefox, you can open it by pressing <i>Ctrl + Shift + Q </i>.
 After opening it, visit any page and facebook and you will see all the requests made by user in the developer panel.
 Click on any request and find and copy the Cookie value from the Headers.
+Note: If anoNmap shows all ports as closed then consider increasing the value of timeout.
