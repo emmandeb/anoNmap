@@ -2,8 +2,8 @@
 #- * -coding: utf - 8 - * -
 import requests
 
-print '''\033[1;34m                    _   _                       
-                   | \ | |                      
+print '''\033[1;34m                    _   _                  
+  Somdev Sangwan   | \ | |   TeamUltimate.in             
    __ _ _ __   ___ |  \| |_ __ ___   __ _ _ __  
   / _` | '_ \ / _ \| . ` | '_ ` _ \ / _` | '_ \ 
  | (_| | | | | (_) | |\  | | | | | | (_| | |_) |
